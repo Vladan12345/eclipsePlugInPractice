@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testing.ort/testing-1.0.dtd">
+ 
+ <suite name="sanity">
+ <test verbose="2" name="sanity tests">
+ 	<classes>
+ 		<class name="BatchTesting.LoginTesy" />
+		<class name="BatchTesting.SignupTest" /> 
+	</classes> 
+</test>
+</suite>
